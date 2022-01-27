@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @SchirinNB
-
-But please call me schirin (shaa reeeen)
+a visual designer and illustrator in nyc
 - 👀 I’m interested in ...
 
 Making something really really pretty
 - 🌱 I’m currently learning ...
 
-Css, html, JavaScript, i get to work with figma ans sketch and invision in my day job but feel like I would love to know more!
+Css, html, JavaScript, i get to work with figma and sketch and invision in my day job... would love to know more and keep the party going
 - 💞️ I’m looking to collaborate on ...
 
 Wearable tech and application for women!
